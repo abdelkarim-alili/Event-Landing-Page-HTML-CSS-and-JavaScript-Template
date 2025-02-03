@@ -1,5 +1,8 @@
 # Event Landing Page | HTML, CSS and JavaScript Template
 
+## Live Demo
+Check out the live demo of the website here: [Live Demo](https://abdelkarim-alili.github.io/Event-Landing-Page-HTML-CSS-and-JavaScript-Template/)
+
 ## Description
 Event landing page is a clean and modern business HTML template designed specifically to provide detailed information about your event. You will be able to showcase your content on mobile devices such as smartphones, tablets and all types of devices. Event landing page's design is driven by minimalist and unique sections. With this template pixel-perfect layout and neat sectioning and and smooth navigation. The code of the template is organized as sections. It allows you to easily navigate and read the clean and well structured code.
 
